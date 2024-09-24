@@ -1,0 +1,54 @@
+/*general styling*/
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1%;
+    background-color: rgb(194, 173, 173);
+    color: rgb(7, 7, 7);
+    font-size: large;
+
+}
+header{
+    background-color: gray;
+    color: aliceblue;
+    padding: 1px;
+    text-align: left;
+    font-size: larger;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-size: cover;
+}
+.wrap{
+    margin: 1%;
+    width: 70%;
+}
+img{
+    
+}
+header nav ul{
+    list-style-type:none;
+    margin: 0%;
+    padding: 0;
+    text-align: center;
+    font-size: larger;
+}
+header nav ul li {
+    display: inline-block;
+    margin: 40px;
+    font-size: larger;
+}
+.introduction{
+    background-image: -webkit-image-set(url(images/acer.jpg));
+    margin: 0%;
+    padding: 90px;
+    text-align: center;
+    color: aliceblue;
+    background-size: cover;
+    font-size: 20px;
+    position: relative;
+    t
+}
+.footer{
+    text-align: right;
+    font-size: larger;
+}

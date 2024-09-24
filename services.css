@@ -1,0 +1,11 @@
+/*general styling*/
+body{
+    background-color: rgba(240, 228, 228, 0.555);
+    margin: auto;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.input{
+    display: grid;
+    grid-template-columns: auto;
+}
